@@ -304,6 +304,7 @@ header#beranda::after {
   animation: fadeInRight 0.8s ease forwards;
 }
 
+
 .hero-image {
   width: 480px;
   max-width: 100%;
